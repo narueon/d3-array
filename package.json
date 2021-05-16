@@ -19,7 +19,7 @@
     "name": "Mike Bostock",
     "url": "http://bost.ocks.org/mike"
   },
-  "main": "dist/d3-array.js",
+  "main": "src/index.js",
   "unpkg": "dist/d3-array.min.js",
   "module": "src/index.js",
   "repository": {
